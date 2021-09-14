@@ -42,7 +42,7 @@ et lancement du premier test et apprentissage des tests unitaires
 
 Ensuite nous devons réalisez les tests unitaire pour qu'il soit correct donc pour faire cela j'ai premièrement ajoutez un nom et une couleurs aux cartes ainsi qu'un ordre comme si dessous : 
 
-![](C:\Users\Bryan\Desktop\guesswhat-master cassée\doc\Ordre des carte.PNG)
+![](doc/Ordre des carte.PNG)
 
 ![](C:\Users\Bryan\Desktop\guesswhat-master cassée\doc\Ordre des cartes 2.PNG)
 
