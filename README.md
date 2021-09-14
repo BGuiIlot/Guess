@@ -18,7 +18,7 @@ Prérequis : bases de la programmation, PHP 7 ou supérieur installé sur votre 
 ### Lien GitHub et GitLab
 
 Liens du projet d'origine: https://gitlab.com/okpu/guesswhat
-Liens du projet personnelle hébergée sur GitHub : 
+Liens du projet personnelle hébergée sur GitHub : https://github.com/BGuiIlot/Guess
 
 
 
