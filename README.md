@@ -44,15 +44,15 @@ Ensuite nous devons réalisez les tests unitaire pour qu'il soit correct donc po
 
 ![](https://user-images.githubusercontent.com/77786971/133327602-0e67b977-ac07-46ce-a228-2c53b5d33bea.PNG)
 
-![](C:\Users\Bryan\Desktop\guesswhat-master cassée\doc\Ordre des cartes 2.PNG)
+![](https://user-images.githubusercontent.com/77786971/133327779-53a84026-e16b-4eb6-a0a2-bae433cc7940.PNG)
 
 
 
 ensuite j'ai réalisez les tests la plupart ne mon pas posez de problèmes à par la fonction ToString :
 
-![](C:\Users\Bryan\Desktop\guesswhat-master cassée\doc\premiere partie test 3.PNG)
+![](https://user-images.githubusercontent.com/77786971/133327925-20100849-c64f-4df4-8d71-dc2bd4211c0f.PNG)
 
-![](C:\Users\Bryan\Desktop\guesswhat-master cassée\doc\deuxieme partie test 3.PNG)
+![](https://user-images.githubusercontent.com/77786971/133327978-3a82808f-d79c-43ac-8dd1-d8b961103dd8.PNG)
 
 Mais j'ai réussie à me débrouillez sans crée de fonction dans CardGame32.php et à le faire fonctionnez directement dans la fonction CardTest.php ci-dessus.
 
@@ -60,7 +60,7 @@ et pour savoir quel était la fonction qui ne fonctionnait pas j'ai utilisez la 
 
 La page CardTest.php complète sans failure :
 
-![](C:\Users\Bryan\Desktop\guesswhat-master cassée\doc\guesswhat test cardtest.PNG)
+![](https://user-images.githubusercontent.com/77786971/133328026-199e1360-82bd-4f55-87ed-97c344407896.PNG)
 
 
 
@@ -68,18 +68,18 @@ La page CardTest.php complète sans failure :
 
 Au début j'ai réalisez des tests avec un format dur du deck de 32 cartes et les tests ci-dessous fonctionnait :
 
-![](C:\Users\Bryan\Desktop\guesswhat-master cassée\doc\CardGame32Test.PNG)
+![](https://user-images.githubusercontent.com/77786971/133328081-fb55d28c-de85-49b8-996e-ce414ccfc19b.PNG)
 
 Mais j'ai voulus réaliser un tableau des cartes avec leurs couleurs mais ceci me créait des erreurs comme vous le voyez :
 
- ![](C:\Users\Bryan\Desktop\guesswhat-master cassée\doc\CardGame32 array.PNG)
-
-![](C:\Users\Bryan\Desktop\guesswhat-master cassée\doc\erreur array.PNG)
+![](https://user-images.githubusercontent.com/77786971/133328151-98531b87-95bf-47c6-8bc1-2e760755c357.PNG)
+ 
+![](https://user-images.githubusercontent.com/77786971/133328217-f6a99a97-6e64-4aa8-a94a-7c1da2e32a2a.PNG)
 
 
 
 A cause de ceci j'ai pris du retard et mon projet c'est arrêtez ici les seules autre fonctions que j'ai réalisez sont cela :
 
-![](C:\Users\Bryan\Desktop\guesswhat-master cassée\doc\derniere fonction.PNG)
+![](https://user-images.githubusercontent.com/77786971/133328262-c2a9d9e2-ffaa-4840-afe1-8950307f56c2.PNG)
 
 Merci d'avoir pris le temp de lire ce rapport malgré le peu de contenue.
